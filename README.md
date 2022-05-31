@@ -1,5 +1,6 @@
 # robofriends
 
-Find your robot. Created using React, Redux, and robohash.org API.
+Created using React, Redux, and robohash.org API.
 
-Click here to see the website: [Link](https://practical-kepler-8c492b.netlify.app).
+<img src='./examples/landing-page.png' alt='landing page' style='width: 500px;'>
+
